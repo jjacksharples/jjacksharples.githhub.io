@@ -53,3 +53,20 @@ Big 5 Factors
 [image of reults]
 After taking the big 5 factors test I am able to see that I am outgoing and open which is useful when working with teams with my high score in Factor I and that need to work on round out my ideas and put more thought into ideas before rushing into them, as seen with the low Factor IV score.
 
+Project Idea - FoodWaste
+
+My project idea is to build an app that connects restaurants/everyday people in a way that allows them to reduce their food waste footprint. Through the redistribution of food that would otherwise be thrown out, it would allow restaurants to pass on unused food whether it be edible or for composting grade to people that can use it by putting it up for on the app and then people would come collect it. It was be based on location sharing and connecting with with other users in the local area.
+
+“Each year we waste around 7.3 million tonnes of food; this wastage equals about 300kg per person.”[1]] It is a waste of resources and is something that can be easily solved by changing how food supply chains work. The app will enable people to make an active effort in reducing there footprint hat they leave on our planet of finite resources. With global warming being such a hot issue at the moment (pun intended). An app that helps people connect with reducing their food waste impact would be great step forward in helping us achieve a more sustainable relationship with the planet.
+ 
+The app would have two types of users; Donators (people trying to offload food waste) and receivers (people taking that offload). The donators would list the product and then people in the area would be able to come pick it up and take it off their hands. For example if a restaurant was left with chicken carcass’ that would normally be wasted someone can collect them and then repurpose it (pet food or making a broth). Food items would have to ranked by quality to express whether it is still food grade or whether it needs to be composted. People could also put food up that is in their fridge that they are not going to use. It is like the concept on dumpster diving, except that instead of going around looking through dumpsters you just browse what’s in your local area from the app.
+
+The platform would be both web-based and mobile app ready as people would be using it on the go. It would need a UX designer to create both a user friendly and functional app so that it can be easily adopted by anyone that would like to try reducing their food waste footprint. It is essential to keep it user orientated so that it can become part of everyday routine, it can’t seem like a chore. It would also be important to include a solid data management system so that you are able to collect data on how much food and being saved from going too waste and so that people are able to track how they are progressing in reducing their foot print.
+
+To explore this idea I would need to become proficient in a suitable programming language perhaps JavaScript as they are user friendly and front-end web development based but also flexible in its ability to develop mobile applications and back-end development. [2]
+
+Hopefully through the development of this app people will be able to becoming active in helping reduce the food wastage problem in Australia. It will really give the power to communities to make a positive change in shaping how we operate in society and the effects of food supply chains.
+
+[1] Department of Agriculture, Water and the Environment. 2020. Department Of Agriculture, Water And The Environment. [online] Available at: <https://www.environment.gov.au/protection/waste-resource-recovery/food-waste> [Accessed 16 September 2020].
+
+[2]Fullstack Academy. 2020. The 9 Best Programming Languages To Learn In 2020. [online] Available at: <https://www.fullstackacademy.com/blog/nine-best-programming-languages-to-learn> [Accessed 16 September 2020].
