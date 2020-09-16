@@ -25,7 +25,9 @@ What do you expect to learn during your studies?
 I am not entirely sure what I want out of my studies just yet, I am hoping to learn and discover that as I progress through the course. At the end of my studies I hope to be job ready and armed with knowledge and techniques that give me an edge in the industry.
 
 Ideal Job:
+
 Senior Software Developer
+
 https://www.seek.com.au/job/50439210?type=standard#searchRequestToken=98a15881-60fc-4970-87e1-a03ac1c71caa
 
 I am not really sure what I want careerwise exactly, but I am currentky enoying my Introduction to Programming so I have investigated a software development career.
