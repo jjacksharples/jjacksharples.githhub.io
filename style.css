@@ -1,13 +1,13 @@
 body {
-  background-color: #6f732f;
+  background-color: #0D1F22;
 }
 
 div{
-	border: 3px #0D1F22;
+	border: 10px ;
   margin-top: 100px;
   margin-bottom: 100px;
   margin-right: 150px;
   margin-left: 80px;
-  background-color: lightblue;
+  background-color: #6f732f;
 }
 
